@@ -3,7 +3,7 @@ metadata    :name        => "Monit process status",
 	    :author      => "Itamar Lavender <itamar.lavender@gmail.com>",
             :license     => 'GPLv2',
             :version     => '0.1',
-            :url         => 'https://bitbucket.org/ilavender/mcollective',
+            :url         => 'https://github.com/ilavender/mcollective',
             :timeout     => 1
 
 dataquery :description => "Monit status" do

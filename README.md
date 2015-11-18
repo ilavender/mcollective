@@ -11,10 +11,7 @@ data:
 
 examples:
 
-
 ```
-#!bash
-
 # mco rpc monit summary
 # mco rpc monit status service="tomcat"
 # mco rpc monit stop service="tomcat"

@@ -3,7 +3,7 @@ metadata :name        => 'monit',
          :author      => "Itamar Lavender <itamar.lavender@gmail.com>",
          :license     => 'GPLv2',
          :version     => '0.1',
-         :url         => 'https://bitbucket.org/ilavender/mcollective',
+         :url         => 'https://github.com/ilavender/mcollective',
          :timeout     => 5
 
 action 'status', :description => 'return status of monit managed service' do
