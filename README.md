@@ -2,7 +2,7 @@
 
 agents:
 
-- monit	[summary, stop, start, status] (monit process only)
+- monit	# stop, start, status, summary (monit process only)
 
 data:
 
